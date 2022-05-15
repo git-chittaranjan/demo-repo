@@ -2,7 +2,7 @@
 
 My name is Chittaranjan
 
-This line is newly addes
+This line is newly added
 
 ## Subheader
 
